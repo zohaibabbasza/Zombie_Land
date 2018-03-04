@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1512745251 source:c:\users\zohaib abbas za\desktop\oop project\main.cpp
+	<irrlicht.h>
+	<cstdlib>
+	"Spawner.h"
+	<iostream>
+
+1512194794 c:\users\zohaib abbas za\desktop\oop project\spawner.h
+	<irrlicht.h>
+	"Zombie.h"
+	<vector>
+
+1512194907 c:\users\zohaib abbas za\desktop\oop project\zombie.h
+	<irrlicht.h>
+
+1512195242 source:c:\users\zohaib abbas za\desktop\oop project\spawner.cpp
+	"Spawner.h"
+	<iostream>
+
+1512622878 source:c:\users\zohaib abbas za\desktop\oop project\zombie.cpp
+	"Zombie.h"
+	<irrlicht.h>
+	<iostream>
+
+1512745252 source:d:\oop project\main.cpp
+	<irrlicht.h>
+	<cstdlib>
+	"Spawner.h"
+	<iostream>
+
+1512194796 d:\oop project\spawner.h
+	<irrlicht.h>
+	"Zombie.h"
+	<vector>
+
+1512194908 d:\oop project\zombie.h
+	<irrlicht.h>
+
+1512195244 source:d:\oop project\spawner.cpp
+	"Spawner.h"
+	<iostream>
+
+1516388043 source:d:\oop project\zombie.cpp
+	"Zombie.h"
+	<irrlicht.h>
+	<iostream>
+
